@@ -1,3 +1,3 @@
 # mySite
 
-File created when watching YouTube into to GitHub
+File created when watching YouTube intro to GitHub
