@@ -2,4 +2,4 @@
 
 File created when watching YouTube intro to GitHub
 
-[Link](http://www.vg.no)
+[Link](https://www.youtube.com/watch?v=Q6HbQRWAMM4&list=PL9yYRbwpkyktAZaphR2UfeYpgNGnIqjs9&index=3)
